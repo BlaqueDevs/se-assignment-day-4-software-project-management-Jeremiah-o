@@ -14,7 +14,12 @@ In Agile methodology, a project is divided into smaller problems andaccomodates 
 Waterfall methodology is linear and a phase must be completed before starting another phase. Advantages include it lies within the budget and timeline. Disadvantages include it is not flexible for change and there is minimal customer involvement.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile thrives in projects where flexibility, collaboration, and iterative progress are crucial. It's best suited for projects that have evolving requirements or uncertain end goals example include game development that releases updates frequently.
+Waterfall is ideal for projects with well-defined stages, fixed requirements, and a clear vision of the final product. It works well when the scope and goals of the project are fully understood and unlikely to change example include construction project.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+To ensure quality assuarance,Defining clear requirements, establishing test strategies.Maintaining high standards ensures that the project deliverables meet the required standards and satisfy customer expectations.
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
