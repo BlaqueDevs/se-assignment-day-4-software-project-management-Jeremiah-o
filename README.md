@@ -10,6 +10,8 @@ Effective cost control ensures that resources are utilized efficiently, financia
 To prevent budget overruns: Scope of the project is defined, resources shared efficiently
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+In Agile methodology, a project is divided into smaller problems andaccomodates new features during the development of the project advantage is customer involvementand allows for quick adjustments for the project.Disadvantages include the project may exceed its scope and utilise alot of resources.
+Waterfall methodology is linear and a phase must be completed before starting another phase. Advantages include it lies within the budget and timeline. Disadvantages include it is not flexible for change and there is minimal customer involvement.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
