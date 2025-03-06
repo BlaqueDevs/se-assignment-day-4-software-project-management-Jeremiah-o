@@ -28,8 +28,19 @@ Work Breakdown Structure is a chart that breaks down a project into smaller, mor
 A detailed project schedule ensures improved time management, efficient resource allocation and accountability among the team members. Gantt charts provide visual representation of a project schedule hence enabling easy tracking of the progress of the project and viewing of the task dependancies to know the sequence of the completion of the tasks.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem help in determining the requirements, defining the scope of the software, efficient resource allocation and better risk management.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+I would describe my software by its purpose, the problem it solves, and the value it brings to users.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+Showcasing aspects that are innovative or solve critical pain points which are not covered by the competitors software.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+Segment trends in the market and gap of user-needs that only your software can fulfill.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Identifying emerging user behaviors and preferences allows you to position your software as a solutionto satisfy their current needs.
+Market trends help you understand what competitors are offering and where gaps exist for you to fill.
