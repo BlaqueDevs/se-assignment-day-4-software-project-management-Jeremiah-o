@@ -21,7 +21,12 @@ Waterfall is ideal for projects with well-defined stages, fixed requirements, an
 To ensure quality assuarance,Defining clear requirements, establishing test strategies.Maintaining high standards ensures that the project deliverables meet the required standards and satisfy customer expectations.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining project scope help in preventing budgeting overruns, going past the set timeline and misallocation of resources.
+Work Breakdown Structure is a chart that breaks down a project into smaller, more manageable tasks. It is useful because it provides visual structure of the problem enabling better estimation and risk management and easens project tracking.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+A detailed project schedule ensures improved time management, efficient resource allocation and accountability among the team members. Gantt charts provide visual representation of a project schedule hence enabling easy tracking of the progress of the project and viewing of the task dependancies to know the sequence of the completion of the tasks.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
